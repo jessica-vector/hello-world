@@ -6,4 +6,4 @@
 
 #### OK
 
-Firmatting different lines
+Formatting different lines
